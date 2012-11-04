@@ -2,7 +2,7 @@
 layout: default
 title: Day 1
 ---
-# Dag en
+## Dag en
 
 This old man seems familiar. His eyes are just like mine.
 : Den här gubben verkar bekant. Hans ögon år just som mina.
