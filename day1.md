@@ -22,3 +22,5 @@ Jag såg något, jag åt det.
 Min kamrat åt något, då han kånner sjuk.
 
 De alltid frågar om det, de är aldrig talat? (de aldrig talas?)
+
+_2012-11-05_
