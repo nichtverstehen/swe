@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Serif);
+
+html { background: #fafafa; margin: 0; }
+body { background: #fff; margin: 0; padding: 1em 5em 1em 4em; max-width: 50em; font: normal 11pt 'PT Serif', 'Times', serif; }
+h1, h2, h3 { font-family:'VAG Rounded W02 Light', sans-serif; font-weight: normal; }
+h1 { font-size: 12pt; color: #5E549C; /*#4A4668;*/ }
+h2 { font-size: 12pt; color: #968A5D; /*#A99B66; */ }
+h3 { font-size: 10pt; color: #968A5D; }
+hr { margin: 3em 0 1em 0; }
+dt { margin-top: 1em; }
